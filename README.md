@@ -88,21 +88,6 @@ I'm currently exploring **web technologies** and **desktop development**, buildi
 
 ---
 
-## 📊 GitHub at a Glance
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=scottmatthew-sudo&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Scott's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scottmatthew-sudo&layout=compact&hide_border=true&theme=tokyonight" alt="Most-used languages" />
-
-<br />
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=scottmatthew-sudo&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
----
-
 ## 💡 My Developer Philosophy
 
 ```text
