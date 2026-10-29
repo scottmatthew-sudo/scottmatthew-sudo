@@ -4,9 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+at+UET;Exploring+Web+Development+%F0%9F%8C%90;Building+Desktop+Applications+%F0%9F%96%A5%EF%B8%8F;Learning+by+Building+Real+Projects;Turning+Ideas+into+Working+Software+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=scottmatthew-sudo&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/scottmatthew-sudo?style=for-the-badge&logo=github&label=Followers&color=181717" alt="GitHub followers" />
-
 </div>
 
 ---
@@ -103,18 +100,6 @@ I'm currently exploring **web technologies** and **desktop development**, buildi
 <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=scottmatthew-sudo&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
-
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/scottmatthew-sudo/scottmatthew-sudo/output/snake.svg" alt="Animated GitHub contribution graph" />
-
-</div>
-
-> **To enable the snake animation:** add a GitHub Actions workflow that generates `snake.svg` and publishes it to an `output` branch. If you haven't set that up yet, remove this section until it's ready.
 
 ---
 
